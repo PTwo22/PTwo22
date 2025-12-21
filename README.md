@@ -6,6 +6,7 @@ Hi there, I'm Rothpitou. A Computer Science student, majoring in Artificial Inte
 - Hobbies: Photography, Painting, Human Interactions (I do not wish to rot in bed)
 
 > For professional inquires, feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/rothpitoupoeung/).
+
 > For not-so-professional inquires: [instagram.](https://www.instagram.com/ptwoo22/)
 <!--
 **PTwo22/PTwo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
