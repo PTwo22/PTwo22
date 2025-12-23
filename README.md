@@ -1,4 +1,4 @@
-## Rothpitou's Abouts
+## My Abouts
 
 Hi there, I'm Rothpitou. A Computer Science student, majoring in Artificial Intelligence at Swinburne University (VIC). I'm a team member at the Swinburne Formula SAE, working with the Vehicle Control team, developing the autonomous system of the car. Currently working on different projects like doing random side quests in a game (also have a repository for a game).
 
