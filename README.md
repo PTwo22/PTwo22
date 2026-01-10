@@ -2,7 +2,7 @@
 
 Hi there, I'm Rothpitou. A Computer Science student, majoring in Artificial Intelligence at Swinburne University (VIC). I'm a team member at the Swinburne Formula SAE, working with the Vehicle Control team, developing the autonomous system of the car. Currently working on different projects like doing random side quests in a game (also have a repository for a game).
 
-- Current Project/s (refer to repositories): personal portfolio, job recommendation app
+- Current Project/s (refer to repositories): personal portfolio (finished), job recommendation app
 - Hobbies: Photography, Painting, Human Interactions (I do not wish to rot in bed)
 
 > For professional inquires, feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/rothpitoupoeung/).
