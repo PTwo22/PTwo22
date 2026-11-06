@@ -1,6 +1,6 @@
 ## My Abouts
 
-Hi there, I'm Rothpitou. A Computer Science student, majoring in Artificial Intelligence at Swinburne University (VIC). I'm a team member at the Swinburne Formula SAE, working with the Vehicle Control team, developing the autonomous system of the car. Currently working on different projects like doing random side quests in a game (also have a repository for a game).
+Hi there, I'm Rothpitou. A Computer Science student, majoring in Artificial Intelligence at Swinburne University (VIC). I'm a team member at the Swinburne Formula SAE, working with the Vehicle Control team, developing the autonomous system of the car. Interned @ Shaping STEM Futures. Currently working on different projects like doing random side quests in a game (also have a repository for a game).
 
 - Current Project/s (refer to repositories): personal portfolio (finished), 'Stick to the Script' Game using Godot
 - Hobbies: Photography, Painting, Human Interactions (I do not wish to rot in bed)
